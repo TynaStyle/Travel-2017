@@ -1,0 +1,182 @@
+ html,body{
+	 margin:0;
+	 padding:0;
+ }
+
+ ul,li,ol{
+	 margin: 0;
+	 padding: 0;
+	 list-style: 0;
+ }
+
+ .container-fluid{
+ 	 background: #ebebeb;
+ 	 margin: 0 auto;
+ 	 font-family: 'Raleway', sans-serif;
+ 	 font-size: 12px;
+ 	 font-weight: 400;
+ 	 color: #fff;
+ 	 padding: 0px;
+ }
+
+ header{
+ 	 background: url(img/logo-6.jpg) no-repeat;
+ 	 padding-top: 260px;
+ 	 padding-bottom: 310px;
+}
+
+ header h1, 
+ header h3{
+ 	 text-align: center;
+ }
+
+ header h1{
+ 	 font-size: 40px;
+ 	 width: 480px;
+ 	 margin: 0 auto;
+ 	 padding-bottom: 40px;
+ }
+
+ header h3{
+ 	 font-size: 20px;
+ }
+
+
+
+ #navigation{
+ 	 text-align: center;
+ 	 background: #2d2d2d;
+}
+
+ #navigation h5{
+ 	 color: #8a57b8;
+ 	 font-size: 14px;
+ }
+
+ #navigation h2{
+ 	 font-size: 36px;
+ 	 padding-bottom: 40px;
+ }
+
+ #navigation p{
+ 	 font-size: 18px;
+ 	 color: #ababab;
+ 	 text-align: left;
+ 	 padding-bottom: 20px;
+ }
+
+ #navigation h3{
+ 	 color: #fff;
+ 	 font-size: 30px;
+ }
+
+ .cloud{
+ 	 padding-top: 30px;
+ }
+
+ .time{
+ 	 padding-top: 10px;
+ }
+
+ #teambox{
+ 	 text-align: center;
+ }
+
+ #teambox h2{
+ 	 color: #717171;
+ 	 font-size: 36px;
+ 	 padding-top: 40px;
+ 	 padding-bottom: 20px;
+ }
+
+ #teambox h5{
+ 	 color: #939393;
+ 	 font-size: 14px;
+ 	 padding-bottom: 40px; 
+ }
+
+ #teambox h3{
+ 	 color:#252525;
+ }
+
+ #teambox h4{
+ 	 color: #a0a0a0;
+ }
+
+ #teambox{
+ 	 text-align: center;
+ }
+
+ #textbox{
+ 	 text-align: left;
+ 	 padding-top: 80px;
+ }
+
+ #textbox p{
+ 	text-align: center;
+ }
+
+ .left{
+ 	 background: #fff;
+ }
+
+ .left h3{
+ 	 color: #252525;
+ 	 font-size: 35px; 
+ 	 text-align: center;
+ }
+
+ .text1{
+ 	 color: #8a57b8;
+ }
+
+ .text2{
+ 	 color: #a0a0a0;
+ }	
+
+ .right{
+ 	 background:#fff;
+ }
+
+ .right h3{
+ 	 color: #252525;
+ 	 font-size: 35px;
+ 	 text-align: center; 
+ }
+
+ #lastbox p{
+ 	 text-align: center;
+
+ }
+
+ #lastbox{
+ 	 background:#fff;
+ 	 padding-top: 40px; 
+ }
+
+ #lastbox h3{
+ 	 color: #252525;
+ 	 font-size: 35px;
+ 	 text-align: center;
+ }
+
+ .text3{
+ 	 color: #8a57b8;
+ }
+
+ .text4{
+ 	 color: #a0a0a0;
+ }	
+
+ .footer{
+ 	 background:#8a57b8;
+ 	 padding-top: 30px;
+ }
+
+.clearfix{
+ 	 clear: both;
+ }
+
+ 
+
+ 
